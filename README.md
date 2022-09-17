@@ -3,6 +3,7 @@ In this Deep Learning-based project, the user gets music recommendations based o
 For Face Detection, OpenCV library is used and for Mood Detection, Keras is used here
 
 Steps to run this project :
+
 1.Run the code and wait for a second or two.
 2.Camera window will open.
 3.Ensure that your full face is visible in the camera.
