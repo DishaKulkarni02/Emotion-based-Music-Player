@@ -19,5 +19,7 @@ Steps to run this project :
 7. You can select song manually if you want to change song.
 
 If emotion is **sleepy** and **user is** **driving a car** then,
+
 1. Song will not get played instead alert will be generated sounding wakeup up.
+
 2. It will stop as soon as you press Q button manually.
